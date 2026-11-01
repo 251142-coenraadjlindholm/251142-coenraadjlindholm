@@ -49,10 +49,10 @@ These four repositories are my main portfolio projects. Each README covers setup
 
 | # | Project | Type | Stack | Repository |
 |---|---|---|---|---|
-| **1** | **Cricket Hub** | React data-visualisation web app | React, React Router, Axios, Chart.js, Cricbuzz API | [View repo](https://github.com/251142-coenraadjlindholm/cricket-hub) |
-| **2** | **Momentum Sports** | Full-stack e-commerce web app (group project) | React, Node, Express, MongoDB Atlas, Custom Auth | [View repo](https://github.com/251142-coenraadjlindholm/momentum-sports) |
-| **3** | **Hall of Legends** | PHP and MySQL achievement community | PHP 8, MySQL, Vanilla JavaScript, CSS | [View repo](https://github.com/251142-coenraadjlindholm/hall-of-legends) |
-| **4** | **Disc Golf South Africa** | Full-stack membership and event platform | React, Node, Express, MongoDB, AWS | [View repo](https://github.com/251142-coenraadjlindholm/disc-golf-sa) |
+| **1** | **Cricket Hub** | React data-visualisation web app | React, React Router, Axios, Chart.js, Cricbuzz API | [View repo](https://github.com/251142-coenraadjlindholm/cricketstatsapireasearch.git) |
+| **2** | **Momentum Sports** | Full-stack e-commerce web app (group project) | React, Node, Express, MongoDB Atlas, Custom Auth | [View repo](https://github.com/251142-coenraadjlindholm/momentumsports_dv200.git) |
+| **3** | **Hall of Legends** | PHP and MySQL achievement community | PHP 8, MySQL, Vanilla JavaScript, CSS | [View repo](https://github.com/251142-coenraadjlindholm/251142_Coenraad_Lindholm_hall_of_legends.git) |
+| **4** | **Disc Golf South Africa** | Full-stack membership and event platform | React, Node, Express, MongoDB, AWS | [View repo](https://github.com/251142-coenraadjlindholm/DiscGolfProject.git) |
 
 #### Project snapshots
 
