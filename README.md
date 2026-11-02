@@ -57,12 +57,12 @@ These four repositories are my main portfolio projects. Each README covers setup
 #### Project snapshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x225.png?text=Cricket+Hub" width="48%" alt="Cricket Hub" />
-  <img src="https://via.placeholder.com/400x225.png?text=Momentum+Sports" width="48%" alt="Momentum Sports" />
+  <img src="C:\Users\coenr\Downloads\Cricket desk mock.png" width="48%" alt="Cricket Hub" />
+  <img src="C:\Users\coenr\Downloads\Momentum desk mock.png" width="48%" alt="Momentum Sports" />
 </p>
 <p align="center">
-  <img src="https://via.placeholder.com/400x225.png?text=Hall+of+Legends" width="48%" alt="Hall of Legends" />
-  <img src="https://via.placeholder.com/400x225.png?text=Disc+Golf+South+Africa" width="48%" alt="Disc Golf South Africa" />
+  <img src="C:\Users\coenr\Downloads\HoL Desk mock.png" width="48%" alt="Hall of Legends" />
+  <img src="C:\Users\coenr\Downloads\Heroku desk mock.png" width="48%" alt="Disc Golf South Africa" />
 </p>
 
 ---
